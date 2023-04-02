@@ -5,6 +5,7 @@ function calculate() {
     var party_d = parseFloat(document.getElementById("party4").value);
     var party_e = parseFloat(document.getElementById("party5").value);
 
+    
     var party_votes = {
         "Party A": party_a,
         "Party B": party_b,
